@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ES3App1</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_text">Olá, este app é um simples app de fotografia que registra a imagem, a localização geográfica e os dados do acelerômetro</string>
+</resources>
